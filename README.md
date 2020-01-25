@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18172931/73115609-6ecc9680-3ef6-11ea-87be-ece3579bb556.png" width="200" height="200" style="border-radius:50%">
+  <img src="https://user-images.githubusercontent.com/18172931/73115609-6ecc9680-3ef6-11ea-87be-ece3579bb556.png" width="200" height="200">
   <br>
 </p>
 <h2 align="center">Yon Montoto</h2>
