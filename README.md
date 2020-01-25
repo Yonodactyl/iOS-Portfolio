@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18172931/73115609-6ecc9680-3ef6-11ea-87be-ece3579bb556.png" width="200" height="200">
-  <br>
 </p>
 <h2 align="center">Yon Montoto</h2>
+<p align="center">I am a self-driven, experienced and detail centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yonmontoto/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=yonmontoto&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yonmontoto/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=yonmontoto&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Yonodactyl/iOS-Portfolio/files/4111601/Yon-Montoto.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
   <a href="https://apps.apple.com/vg/developer/yon-montoto/id1461254488"><img src="https://img.shields.io/static/v1?label=AppStore&message=Yon%20Montoto&color=red&style=for-the-badge&logo=apple&logoColor=white"></a>
 </p><br>
 
