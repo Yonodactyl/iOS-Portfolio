@@ -9,5 +9,8 @@
 </p><br>
 
 ## Knight Spots
+#### Frameworks Used
+`UIKit` `Core Animation`
+
 Knight Spots is a passion project of mine that I had since starting my journey at the University of Central Florida. Noticing the plethora of students (and the limitation of the parking spots) I decided to try and help my fellow knights on campus in finding parking a little easier. Since the school already manages sensors at the garages I was able to recieve this data and parse it and create a ready to digest application for iOS.
 ![knightspots_image](https://user-images.githubusercontent.com/18172931/73115748-3b8b0700-3ef8-11ea-89ea-c225526cbb32.png)
