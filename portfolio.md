@@ -22,5 +22,5 @@ Knight Spots is a passion project of mine that I had since starting my journey a
 #### Frameworks Used
 `UIKit` `Core Animation` `Delegates`
 
-This was a fun project that I took on as a technical challenge for an internship position. I decided to focus on functionality instead of asthetics as I am an easily obsessive person and that would have kept me designing it for far longer than I had. I worked on my **Delegate** skills with iOS as well as **Access Control**. The entire application conforms to Auto-Layout and will work on all devices and orientations. This challenge really tested me but I found myself comfortably in the zone only a few hours in.
+This was a fun project that I took on as a technical challenge for an internship position. I decided to focus on functionality instead of asthetics as I am an easily obsessive person and that would have kept me designing it for far longer than I had. I worked on my **Delegate** skills as well as **Access Control**. The entire application conforms to Auto-Layout and will work on all devices and orientations. This challenge really tested me but I found myself comfortably in the zone only a few hours in.
 ![EmojiPerMinute](https://user-images.githubusercontent.com/18172931/73152913-a9bdfe00-409f-11ea-8ac8-6fe001988e6f.png)
