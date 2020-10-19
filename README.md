@@ -13,9 +13,9 @@
 #### Frameworks Used
 `SwiftUI` `Core Data` `Cloudkit`
 
-While working at Starbucks I came across some very unique and delicious drinks. Often I never had time to remember the recipes and would just forget about them. Then came along TikTok and the drink creations went through the roof! At a certain point I thought: "Maybe we can reduce the friction from all the incorrect ordering and have a streamlined way to order these drinks?" This was the inception of Drinksly: A secret menu companion. Drinksly was my first SwiftUI and Core Data backed project. There were many challenges I faced like duplicate data and managing the Core Data stack to make sure that things are stored and replaced appropriately. Drinksly is in public beta right now and will launch alongside iOS 14 this Fall.
+While working at Starbucks I came across some very unique and delicious drinks. Often I never had time to remember the recipes and would just forget about them. Then came along TikTok and the drink creations went through the roof! At a certain point I thought: "Maybe we can reduce the friction from all the incorrect ordering and have a streamlined way to order these drinks?" This was the inception of Drinksly: A secret menu companion. Drinksly was my first SwiftUI and Core Data backed project. There were many challenges I faced like duplicate data and managing the Core Data stack to make sure that things are stored and replaced appropriately.
 
-If you want to test the app please make sure you're on the latest iOS 14 beta and [Join the Beta!](https://testflight.apple.com/join/8BT6Hf5s)
+[View on the AppStore](https://apps.apple.com/us/app/drinksly/id1524569359)
 ![DrinkslyGroup](https://user-images.githubusercontent.com/18172931/91644854-0acefb00-ea0e-11ea-82eb-025d8a818a11.png)
 
 ## Knight Spots
