@@ -5,7 +5,7 @@
 <p align="center">I am a self-driven, experienced and detail centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yonmontoto/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=yonmontoto&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Yonodactyl/iOS-Portfolio/files/5145929/Yon.Montoto.Resume-2.copy.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Yonodactyl/iOS-Portfolio/files/5539754/YonMontotoResumeFall2020-Redacted.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
   <a href="https://apps.apple.com/vg/developer/yon-montoto/id1461254488"><img src="https://img.shields.io/static/v1?label=AppStore&message=Yon%20Montoto&color=red&style=for-the-badge&logo=apple&logoColor=white"></a>
 </p><br>
 
